@@ -1,2 +1,2 @@
 # NikeRSS
-Create a sample code to Display JSON data
+sample project to display JSON data by using customized views
